@@ -1,7 +1,8 @@
-# ⚾Object Detection과 Pose Estimation을 활용한 야구 경기 상황 인식 모델 구현
+# 🥎 Object Detection과 Pose Estimation을 활용한 야구 경기 상황 인식 모델 구현
 
 ### Memebers:
 김현준, 에리카 인공지능학과, 2023054639, gizxmk@hanyang.ac.kr
+
 도기훈, 에리카 인공지능학과, 2021009407, support7417@hanyang.ac.kr
 
 # I. Proposal (Option A)
@@ -26,4 +27,5 @@
 ...
 
 김현준 : 데이터 수집, 코드 구현, 모델 구현
+
 도기훈 : 데이터 수집, 코드 구현, 모델 구현

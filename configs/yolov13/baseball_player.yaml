@@ -1,0 +1,22 @@
+path: data/yolov13
+train: images/train
+val: images/val
+
+nc: 15
+
+names:
+  0: pitcher
+  1: hitter
+  2: catcher
+  3: the_chief_umpire
+  4: normal_umpire
+  5: center_fielder
+  6: runner
+  7: second_baseman
+  8: short_stop
+  9: right_fielder
+  10: left_fielder
+  11: first_baseman
+  12: third_baseman
+  13: others
+  14: fielder

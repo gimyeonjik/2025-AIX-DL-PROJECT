@@ -1,0 +1,48 @@
+# 대용량 데이터
+data/
+work_dirs/
+runs/
+checkpoints/
+weights/
+
+# 모델 가중치
+*.pth
+*.pt
+*.onnx
+*.engine
+
+# 로그 및 캐시
+*.log
+*.cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 출력 파일
+*.mp4
+*.avi
+output_*/
+results/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# 환경
+.env
+.venv/
+venv/
+env/
